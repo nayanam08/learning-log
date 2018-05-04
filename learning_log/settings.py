@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'bootstrap3',
     # My apps
     'learning_logs',
+    'users',
 
 ]
 
